@@ -36,3 +36,6 @@ Ensure you have Python installed with the following packages:
 Install all dependencies with:
 ```bash
 pip install -r requirements.txt
+
+
+ 
